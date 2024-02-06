@@ -1,4 +1,4 @@
-/* is selecting everything on the page */
+is selecting everything on the page
 *{
     margin:0;
     /* border: blue 3px solid; */
@@ -20,7 +20,7 @@ body{
 /* settings for the background if the person has not set a motion preference, meaning they are fine with motion */
 @media (prefers-reduced-motion:no-preference){
     body{
-        background-color: teal;
+        background-color: greenyellow;
     }
     .wrapper{
         background-image: url("pastel-moon.gif");

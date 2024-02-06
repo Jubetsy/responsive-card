@@ -20,7 +20,7 @@ body{
 /* settings for the background if the person has not set a motion preference, meaning they are fine with motion */
 @media (prefers-reduced-motion:no-preference){
     body{
-        background-color: teal(47, 255, 200);
+        background-color: teal;
     }
     .wrapper{
         background-image: url("pastel-moon.gif");
